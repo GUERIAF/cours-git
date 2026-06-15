@@ -1,3 +1,3 @@
 <?php
 
-echo "Page Panier";
+echo "Bienvenue sur mon site";
